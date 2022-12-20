@@ -1,0 +1,9 @@
+.navigationContainer{
+    display: flex;
+    padding: 0px;
+    justify-content: center;
+    gap: 20px;
+
+    background: #444444;
+    border-radius: 0px 0px 20px 20px;
+}

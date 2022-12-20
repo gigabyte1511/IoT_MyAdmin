@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 15px;
+    width: 600px;
+    background: #444444;
+}
+.string{
+    color: #FFFFFF;
+    margin: 0;
+
+}
