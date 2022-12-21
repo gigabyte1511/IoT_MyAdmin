@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background: #444444;
+}
+.header{
+    padding: 0px;
+    background: #1976D2;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+}
+.body{
+    background-color: white;
+    padding: 10px;
+}
+.text{
+    margin: 2px;
+    font-size: 10px;
+    color: black;
+}

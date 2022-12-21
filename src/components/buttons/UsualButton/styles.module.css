@@ -1,0 +1,13 @@
+.container{
+    padding: 10px;
+    background: #FFA800;
+    border-radius: 10px;
+}
+.container:active{
+    background-color: red;
+}
+.text{
+    margin: 0;
+    color: black;
+    text-align: center;
+}
